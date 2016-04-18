@@ -1,4 +1,5 @@
-sspathentry kind="src" path="src"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<classpathentry kind="src" path="src"/>
 <classpathentry kind="con"
 path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclips
 e.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1
